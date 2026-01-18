@@ -16,7 +16,7 @@ module.exports.config = {
 // --- CONFIGURATION ---
 // 👇👇👇 APNI API KEY NICHE DAALO 👇👇👇
 
-const GROQ_API_KEY = "✨ 🔑 𝐀𝐃𝐃 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐐 𝐀𝐏𝐈 𝐊𝐄𝐘 𝐇𝐄𝐑𝐄 🔑 ✨";
+const GROQ_API_KEY = "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";
 
 // 👆👆👆 --------------------------- 👆👆👆
 
